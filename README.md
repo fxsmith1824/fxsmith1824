@@ -1,4 +1,4 @@
-Hey, I'm Francis.
+Hey, I'm fxsmith1824.
 
 I'm a post-doctoral researcher working on getting better at version control as I develop analysis pipelines for the lab I work in.
 
