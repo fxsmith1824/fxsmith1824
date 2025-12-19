@@ -1,6 +1,6 @@
 Hey, I'm fxsmith1824.
 
-I'm a post-doctoral researcher working on getting better at version control as I develop analysis pipelines for the lab I work in.
+I'm an assistant research scientist working on getting better at version control as I develop analysis pipelines for the lab I work in.
 
 For now most of my projects for the lab will likely be listed as private, but I'm hoping to open them up to share (and get feedback/corrections on my coding habits) in the future.
 
